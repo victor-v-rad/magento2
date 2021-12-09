@@ -1,5 +1,5 @@
 <p align="center">
-    <a h  ref="https://magento.com">
+    <a h   ref="https://magento.com">
         <img src="https://static.magento.com/sites/all/themes/magento/logo.svg" width="300px" alt="Magento Commerce" />
     </a>
     <br />
